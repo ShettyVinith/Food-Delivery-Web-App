@@ -1,12 +1,34 @@
-# React + Vite
+# Tomato - Food Delivery Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Tomato** is a responsive and dynamic food delivery web application built using **React**. The goal of this project is to provide users with a smooth and interactive experience for exploring, selecting, and ordering food items online.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React** for fast and interactive UI  
+- **Context API** for global state management  
+- **React Router DOM** for seamless navigation  
+- Clean usage of **state** and **props** for component interaction  
+- Modular and reusable components
 
-## Expanding the ESLint configuration
+## Tech Stack
+- React
+- Vite
+- JavaScript
+- CSS
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Live Demo
+
+[Click here to view the live app](https://tomato-fzei.onrender.com)
+
+## Installation & Running Locally
+
+```bash
+git clone https://github.com/ShettyVinith/Food-Delivery-Web-App.git
+cd Food-Delivery-Web-App
+npm install
+npm run dev
+```
+## Note
+Work on the backend is under development — stay tuned for updates.
+
+
