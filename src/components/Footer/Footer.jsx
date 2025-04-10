@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
           <p>
-            🚀 Frontend Launch Alert! <br /> 🍔🍕🍜 The frontend for our Food
+            🚀 Frontend Launch Alert! <br /> 🍜 The frontend for our Food
             Delivery Web App is now live! <br />
             🔧 Backend development is currently in progress... <br /> 🌐 Stay
             tuned for the full-stack application release coming soon! <br />
