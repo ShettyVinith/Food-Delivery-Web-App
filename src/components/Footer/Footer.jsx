@@ -8,10 +8,15 @@ const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
-            mollitia aut, dolor corrupti sequi odit neque aliquam sint delectus
-            nisi earum illo hic voluptatem sapiente optio nam! Deleniti, vero
-            rerum.
+            🚀 Frontend Launch Alert! <br /> 🍔🍕🍜 The frontend for our Food
+            Delivery Web App is now live! <br />
+            🔧 Backend development is currently in progress... <br /> 🌐 Stay
+            tuned for the full-stack application release coming soon! <br />
+            💻{" "}
+            <i>
+              Developed by
+              <b> Vinith Shetty</b>
+            </i>
           </p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
